@@ -1,4 +1,4 @@
-const { Tag } = require('../models');
+const { Tag } = require('../02-Challenge/Develop/models');
 
 const tagData = [
   {
